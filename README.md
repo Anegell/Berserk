@@ -1,1 +1,12 @@
-# teste-2
+### Boas vindas ao meu perfil
+
+Meu nome é Angel
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- isso  é apenas um teste
+
+
+samuel.franca.correia@escola.pr.gov.br
+
+![]https://tenor.com/L2Gg.gif
