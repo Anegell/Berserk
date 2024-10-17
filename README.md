@@ -6,7 +6,9 @@ Meu nome é Angel
 - Estou me desenvolvendo na linguagem JavaScript
 - isso  é apenas um teste
 
-![BMW]![image](https://github.com/user-attachments/assets/f5794725-5e33-4e19-9255-d97f0213334b)
+![BMW](https://github.com/user-attachments/assets/f5794725-5e33-4e19-9255-d97f0213334b)
+
+![](https://www.youtube.com/watch?v=jkJjcBJ8dAo)
 
 
 
